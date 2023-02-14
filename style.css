@@ -27,6 +27,18 @@ a{
     text-decoration: none;
 }
 
+a:hover{
+    color: white;
+}
+.link:hover{
+    background-color: #BB99DD;
+    transition: .5s;
+    font-size: 16px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
 .link{
     gap: 50px;
     border: #BB99DD 2px solid;
