@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+}
+
+body{
+    background-color: #FAF7FD;
+}
+
+#container{
+    /* background-color: red; */
+    width: 75%;
+    padding-top: 70px;
+    padding-bottom: 40px;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    border-radius: 200px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.link{
+    gap: 50px;
+    border: #BB99DD 2px solid;
+    width: 20%;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+#logo{
+    width: 23%;
+    text-align: center;
+    margin: auto;
+}
